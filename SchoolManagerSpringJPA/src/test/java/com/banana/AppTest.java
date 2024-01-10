@@ -17,5 +17,9 @@ public class AppTest {
         assertTrue(true);
     }
 
+    void otro(){
+        
+    }
+
 
 }

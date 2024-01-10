@@ -22,5 +22,10 @@ public class AppTest {
         
     }
 
+    void otro_mas(){
+        
+    }
+    
+
 
 }
